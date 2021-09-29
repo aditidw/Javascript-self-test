@@ -1,4 +1,4 @@
-<h1 align="center"> Python Work </h1>
+<h1 align="center"> Javascript Self Work </h1>
 
 ## Problem Statement
 
